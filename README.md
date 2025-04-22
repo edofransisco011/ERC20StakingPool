@@ -7,8 +7,8 @@ This project implements a basic staking system on the Ethereum blockchain. Users
 This project is intended for educational purposes to demonstrate core Solidity concepts like ERC20 interaction, state management, access control, and basic DeFi reward mechanisms.
 
 **Deployed on [Network Name, e.g., Sepolia Testnet] (Optional):**
-* `MyToken` Address: `[Your Deployed MyToken Address]`
-* `StakingContract` Address: `[Your Deployed StakingContract Address]`
+* `MyToken` Address: `[0xAe06e41E1452cc39e4f2214f4674762303c257Cc]`
+* `StakingContract` Address: `[0xAe06e41E1452cc39e4f2214f4674762303c257Cc]`
 
 ## Contracts
 
